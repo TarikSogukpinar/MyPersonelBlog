@@ -12,7 +12,7 @@ import { SectionsComponent } from './sections/sections.component';
 import { FooterComponent } from './shared/footer/footer.component';
 
 const routes: Routes =[
-    { path: 'home',component: HomeComponent},
+    { path: '',pathMatch:"full",component: HomeComponent},
  
 ];
 
