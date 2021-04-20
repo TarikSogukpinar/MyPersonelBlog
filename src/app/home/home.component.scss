@@ -15,6 +15,13 @@
     border: 3px
 }
 
+.btn-wrapper {
+    position: relative;
+    top: 30px;
+    left: 275px;
+    border: 3px
+}
+
 .emoji::after {
     animation-timing-function: linear;
     animation-iteration-count: infinite;
