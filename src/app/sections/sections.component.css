@@ -1,0 +1,13 @@
+.custom-tab-content {
+    position: relative;
+    top: -10px;
+    left: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+.display-3 {
+    position: relative;
+    top: -60px;
+    left: 10px;
+}
